@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 ADS @ UniFavip • Back-end dev
-    💻 System programming languages
+    💻 Java, Spring Boot, Bash
     📖 Software architecture • Algorithms • Data Analysis
     🎮 Music • Games • Anime • Code 
     
