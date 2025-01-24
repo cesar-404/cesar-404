@@ -10,12 +10,13 @@
     
 </pre>
 <br><br>
-    <img src="https://media.tenor.com/hVJHDYsJ-_sAAAAi/twelve-personagem.gif" height="70" />
+    <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" height="330" />
 <br><br><br>
 </div>
 <div align=center>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" width=80px>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width=90px>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=100px>
     <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" width=100px>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" width=125px>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width=110px>
