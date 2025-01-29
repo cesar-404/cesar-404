@@ -12,16 +12,19 @@
     🎮 Music • Games • Anime • Code • Linux
     💼 Linkedin: linkedin.com/in/cesar-oliveira-costa/   
 </pre>
+<br><br>
+<img src="https://i.pinimg.com/originals/be/33/5f/be335fd0dc86f5fda4c98e057a5e322f.gif" width="25%" />
 
-<br><br><br>
+<br>
 <div align=center>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" width=80px>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width=90px>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" width=70px>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" width=80px>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width=110px>
-    <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" width=100px>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=100px>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" width=125px>
+    <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" width=95px>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=90px>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" width=116px>
 </div>
 </div>
+
 
 
