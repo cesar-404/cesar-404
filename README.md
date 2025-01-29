@@ -4,13 +4,15 @@
 <br><br>
 <pre>
     💼 ADS @ UniFavip • Back-end dev
-    💻 Java, Spring Boot, Python, Bash
-    📖 Software architecture • Algorithms • Data Analysis
-    🎮 Music • Games • Anime • Code 
+    💻 Languages: Java, JavaScript, Python, Bash
+    📖 Frameworks: Spring Boot, Angular
+    💾 Databases: PostgreSQL, H2 Database
+    🛠️ Tools: Git, Docker, Intellij IDEA
+    🎮 Music • Games • Anime • Code • Linux
+    💼 Linkedin: linkedin.com/in/cesar-oliveira-costa/
     
 </pre>
-<br><br>
-    <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" height="330" />
+<img src="https://64.media.tumblr.com/2b37fbfe62e699105aef44ea566e7937/tumblr_pnt90orj4d1xdjegyo1_540.gifv" />
 <br><br><br>
 </div>
 <div align=center>
