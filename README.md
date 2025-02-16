@@ -2,18 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&color=50C878&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello,+friend;I'm+César%2C+a+tech+rat+and+Evangelion+fan+水" width="70%" />
 <br><br>
-<img src="https://i.pinimg.com/736x/a7/45/57/a745576237927c63fa61f06071054b9b.jpg" width="25%" align="right" />
 <pre>
     💼 ADS @ UniFavip • Back-end dev
     💻 Languages: Java, JavaScript, Python, Bash
     📖 Frameworks: Spring Boot, Angular
     💾 Databases: PostgreSQL, H2 Database
     🛠️ Tools: Git, Docker, Intellij IDEA
-    🎮 Music • Games • Anime • Code • Linux
     💼 Linkedin: linkedin.com/in/cesar-oliveira-costa/   
 </pre>
 <br><br>
-<img src="https://i.pinimg.com/originals/be/33/5f/be335fd0dc86f5fda4c98e057a5e322f.gif" width="25%" />
 
 <br>
 <div align=center>
