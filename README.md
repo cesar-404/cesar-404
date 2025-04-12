@@ -8,8 +8,8 @@
 - 🎯 Goal: Become a proficient Java/Spring developer
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: <br>
-<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>: https://www.linkedin.com/in/cesar-oliveira-costa/ <br>
-✉️ Email: cesarhenriqoliveira@gmail.copm
+Linkedin: https://www.linkedin.com/in/cesar-oliveira-costa/ <br>
+Email: cesarhenriqoliveira@gmail.copm
 - ⚡ Fun fact: I think strawberries are overrated 🍓
 - ## 🛠️ Tech Stack
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
